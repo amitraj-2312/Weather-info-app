@@ -30,10 +30,15 @@ bash
 Copy
 Edit
 npm create vite@latest react-weather
+
 cd react-weather
+
 npm install
+
 npm run dev
+
 This will start the development server at http://localhost:5173/.
+
 
 
 2. Set Up the OpenWeatherMap API
