@@ -1,4 +1,4 @@
-Creating a weather information app using React.js is an excellent project to enhance your skills in API integration, state management, and building responsive user interfaces. Here's a step-by-step guide to help you build such an app:
+Creating a weather information app using React.js is an excellent project to enhance our skills in API integration, state management, and building responsive user interfaces. Here's a step-by-step guide to help you build such an app:
 
 🌤️ Overview of the Weather App
 The weather app will allow users to:
